@@ -1,0 +1,25 @@
+{
+  "name": "PERSISTÊNCIA",
+  "short_name": "PERSISTÊNCIA",
+  "description": "Plataforma de disciplina e desenvolvimento pessoal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080C14",
+  "theme_color": "#C9A96E",
+  "orientation": "portrait",
+  "lang": "pt",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiI+CiAgPCEtLSBGdW5kbyAtLT4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjgwIiBmaWxsPSIjMDgwQzE0Ii8+CiAgPCEtLSBCb3JkYSBkb3VyYWRhIC0tPgogIDxyZWN0IHg9IjgiIHk9IjgiIHdpZHRoPSI0OTYiIGhlaWdodD0iNDk2IiByeD0iNzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M5QTk2RSIgc3Ryb2tlLXdpZHRoPSI4Ii8+CiAgPCEtLSBMZXRyYSBQIGVzdGlsaXphZGEgLS0+CiAgPHRleHQgeD0iMjU2IiB5PSIzNDAiIAogICAgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiAKICAgIGZvbnQtc2l6ZT0iMzIwIiAKICAgIGZvbnQtd2VpZ2h0PSJib2xkIgogICAgZmlsbD0iI0M5QTk2RSIgCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgbGV0dGVyLXNwYWNpbmc9Ii0xMCI+UDwvdGV4dD4KICA8IS0tIEVzdHJlbGEgLyBwb250byBkZSBkZXN0YXF1ZSAtLT4KICA8Y2lyY2xlIGN4PSIyNTYiIGN5PSI0NDAiIHI9IjE4IiBmaWxsPSIjQzlBOTZFIiBvcGFjaXR5PSIwLjYiLz4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8IS0tIEZ1bmRvIC0tPgogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iODAiIGZpbGw9IiMwODBDMTQiLz4KICA8IS0tIEJvcmRhIGRvdXJhZGEgLS0+CiAgPHJlY3QgeD0iOCIgeT0iOCIgd2lkdGg9IjQ5NiIgaGVpZ2h0PSI0OTYiIHJ4PSI3NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzlBOTZFIiBzdHJva2Utd2lkdGg9IjgiLz4KICA8IS0tIExldHJhIFAgZXN0aWxpemFkYSAtLT4KICA8dGV4dCB4PSIyNTYiIHk9IjM0MCIgCiAgICBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIAogICAgZm9udC1zaXplPSIzMjAiIAogICAgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICBmaWxsPSIjQzlBOTZFIiAKICAgIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICBsZXR0ZXItc3BhY2luZz0iLTEwIj5QPC90ZXh0PgogIDwhLS0gRXN0cmVsYSAvIHBvbnRvIGRlIGRlc3RhcXVlIC0tPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjQ0MCIgcj0iMTgiIGZpbGw9IiNDOUE5NkUiIG9wYWNpdHk9IjAuNiIvPgo8L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
